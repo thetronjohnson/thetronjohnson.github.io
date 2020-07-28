@@ -7,3 +7,6 @@
 .note{
     margin-top: -20px;
 }
+a{
+    background-image: none !important;
+}
