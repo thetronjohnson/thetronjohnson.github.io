@@ -1,2 +1,2 @@
-# [demos.kiranjohns.xyz](https://demos.kiranjohns.xyz)
+# [demo.kiranjohns.xyz](https://demos.kiranjohns.xyz)
 Demos Page
