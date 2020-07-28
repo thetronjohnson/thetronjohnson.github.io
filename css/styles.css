@@ -1,0 +1,9 @@
+.card{
+    width: 25rem !important;
+}
+.title{
+    margin-top: -10px;
+}
+.note{
+    margin-top: -20px;
+}
